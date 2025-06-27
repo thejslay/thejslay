@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thejslay
-- 👀 I’m interested in learning C++
-- 🌱 I’m currently learning software programming in school
+- 👋 Hi, I’m Jeremiah
+- 👀 I’m interested in learning software development and web design
+- 🌱 I’m currently in school for an Associate's of Computer Science
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me PM
 - 😄 Pronouns: He/him
